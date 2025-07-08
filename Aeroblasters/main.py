@@ -1,6 +1,6 @@
 # Aeroblasters
 
-# Author : Prajjwal Pathak (pyguru)
+# Author : Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
 # Date : Thursday, 30 September, 2021
 
 import random
